@@ -14,7 +14,6 @@ AI engineering student at **EHEIM Oujda** (Morocco) and full-stack developer.
 - **Irriga Enterprise** (ORMVA de Berkane internship, 2026): SaaS platform for water-fee billing and collection, with Java 21 / Spring Boot, React 19, PostgreSQL, Docker and CI/CD. *(private repository)*
 - **Nexus EHEIM:** AI-assisted academic analysis platform (IMRAD structure, scientific quality scoring, NLP). *(private repository)*
 - **Cliniko:** secure healthcare management system (.NET 8, React, SQL Server, JWT, RBAC, OWASP). *(private repository)*
-- [**career-agent**](https://github.com/houssaine26/career-agent): internship-focused career search and application tracker (TypeScript).
 
 ## Currently
 Learning Angular and deepening my Machine Learning skills.
