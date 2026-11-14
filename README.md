@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm El Houssaïn 👋
 
-<!--
-**houssaine26/houssaine26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI engineering student at **EHEIM Oujda** (Morocco) and full-stack developer.
+**I'm looking for a PFE internship starting early 2027** (software development, data/AI or DevOps).
 
-Here are some ideas to get you started:
+## What I work with
+- **Backend:** Java / Spring Boot, Node.js, ASP.NET Core
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **AI & Data:** Machine Learning, NLP, Computer Vision (Python)
+- **DevOps & Security:** Docker, GitHub Actions (CI/CD), RBAC, OWASP
+- **Databases:** PostgreSQL, SQL Server, MongoDB, Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+- **Irriga Enterprise** (ORMVA de Berkane internship, 2026): SaaS platform for water-fee billing and collection, with Java 21 / Spring Boot, React 19, PostgreSQL, Docker and CI/CD. *(private repository)*
+- **Nexus EHEIM:** AI-assisted academic analysis platform (IMRAD structure, scientific quality scoring, NLP). *(private repository)*
+- **Cliniko:** secure healthcare management system (.NET 8, React, SQL Server, JWT, RBAC, OWASP). *(private repository)*
+- [**career-agent**](https://github.com/houssaine26/career-agent): internship-focused career search and application tracker (TypeScript).
+
+## Currently
+Learning Angular and deepening my Machine Learning skills.
+
+## Contact
+- Portfolio: [houssaine-portfolio.netlify.app](https://houssaine-portfolio.netlify.app)
+- LinkedIn: [El Houssaïn Zelloufi](https://www.linkedin.com/in/houssaine-zelloufi-a75b5b194/)
+- Email: houssainezelloufi82@gmail.com
