@@ -1,4 +1,4 @@
-# Hi, I'm El Houssaïn 👋
+# Hi, I'm El Houssaïn 
 
 AI engineering student at **EHEIM Oujda** (Morocco) and full-stack developer.
 **I'm looking for a PFE internship starting early 2027** (software development, data/AI or DevOps).
